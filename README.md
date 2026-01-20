@@ -26,3 +26,5 @@ Lightweight MCP server that wraps the Open-Meteo API so MCP clients can fetch we
 
 - Open-Meteo does not require an API key; requests include a small user agent for identification.
 - All tools return raw JSON payloads so the client/LLM can format responses as needed.
+
+Demo: https://www.loom.com/share/73b4459bec0745e19ee8606ee684f8ea
